@@ -5,6 +5,7 @@
 
 ![Jermeson GitHub stats](https://github-readme-stats.vercel.app/api?username=Jemersu&show_icons=true&theme=dracula)
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Jemersu&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 
 
