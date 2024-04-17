@@ -18,11 +18,11 @@
 <br><br>
 <div style="display:flex;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=jermesonf&theme=dracula" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=jermesonf&theme=dracula" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jermesonf&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jermesonf&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 </div>
 <br><br>
