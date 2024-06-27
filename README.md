@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color:black;">
 
 <img width="100%" src="https://github.com/jermesonf/jermesonf/assets/45910656/538e3c46-8ae7-4719-b60d-1073aa979304" />
 <br><br>
