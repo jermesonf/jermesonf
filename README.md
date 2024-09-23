@@ -46,9 +46,10 @@
     <br/><br/>
     <h2>Educação 📚</h2>
     <img text-align="center" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo" /><br/><br/>
-    <p>Cursando 🎒<br/> 
-    Técnico em Desenvolvimento de Sistemas - ETEC<br/>
-    Técnico em infórmatica - SENAC</p>
+    <p>Cursando 🎒
+    <br> 
+    Técnico em Desenvolvimento de Sistemas - ETEC
+    </p>
     
 <br><br><br><br>
 
