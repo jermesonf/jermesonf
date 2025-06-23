@@ -5,9 +5,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=04F0F7&center=true&multiline=true&random=false&height=100&lines=Hello%2C+my+name+is+Jermeson;I'm+from+Brazil;Fullstack+Developer.)](https://git.io/typing-svg)
 
-<br><br>
+<br>
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jermeson-ferreira/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jermeson)
+[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/jermeson)
 
 <div>
     <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
